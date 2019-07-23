@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContactApplicatiion</string>
+    <string name="create">CREATE</string>
+    <string name="display">DISPLAY</string>
+    <string name="username">1.enter your name</string>
+    <string name="phoneNo">2. enter the phone number</string>
+    <string name="address">4. enter the city</string>
+    <string name="mailId"> 3. enter the mail Id</string>
+</resources>
